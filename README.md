@@ -1,0 +1,36 @@
+# Learning-Dart-Full-Version-4H
+This is my progress learning Dart from Zero to Hero!!!
+-------------------------------------------------------
+Learning From Youtube Link : https://www.youtube.com/watch?v=5xlVP04905w&t=4924s
+Learning About :
+1:57 - Environment overview
+2:53 - What is programming?
+4:42 - Print Statements
+7:27 - Program execution flow
+12:56 - Variables
+24:30 - Data Types
+31:38 - String Basics
+42:50 - Numbers - ints & doubles
+52:30 - Booleans
+54:11 - Getting user input
+59:29 - Building a basic calculator
+1:07:07 - Building a madibs game
+1:12:24 - Lists
+1:21:49 - Functions
+1:29:31 -  Parameters & Arguments
+1:35:43 - Return Statements
+1:41:12 - Building a prompt function
+1:46:50 - If Statements
+1:58:45 - And & Or operators
+2:03:54 - Else If
+2:10:46 - Building a smarter calculator
+2:21:10 - Switch Statements
+2:27:16 - While Loops
+2:34:33 - Building a guessing game
+2:43:08 - For Loops
+2:57:26 - Comments
+3:01:54 - Classes & Objects
+3:13:13 - Constructors
+3:22:37 - Class Methods
+3:28:20 - Final Project - Building a math quiz
+3:52:25 - Outro & next steps
